@@ -9,10 +9,12 @@
 
 header {
   display: flex;
-  width: 100%;
+  height: 100%;
+  width: 170px;
   background-color: #ccc;
   position: fixed;
   line-height: 55px;
+  flex-direction: column;  
 }
 
 nav {
@@ -52,7 +54,7 @@ p {
 }
 
 h1 {
-  padding-left: 5rem;
+  padding-left: 12.5rem;
 }
 
 h1:hover {
@@ -61,13 +63,10 @@ h1:hover {
 }
 
 div > p {
-   width: 40rem;
+  width: 40rem;
   padding-left: 5rem;
 }
 
-div > a > img {
-  margin: .9rem;
-}
 
 footer {
   display: flex;
