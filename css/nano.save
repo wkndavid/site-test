@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA- Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<title>Porto-PT</title>
+  
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <a href="#"><img src="https://i.postimg.cc/xjMrKd4r/porto-logo.png"/>
+      </a>
+    </div>
+    <nav>
+      <ul>
+        <li class="link-hover"><a href="#emphasis">About</a></li>
+        <li class="link-hover"><a  href="#about-cities">Cities</a></li>
+        <li class="link-hover"><a href="#news">NewsLetter</a></li>
+      </li>
+    </nav>
+  </header>
+  <section id="emphasis">
+    <div class="mp4">
+      <h1>DESTAQUES</h1>
+    </div>
+  </section>
+  <section id="about-cities">
+    <div >
+      <h1>Citizien</h1>
+ 
+    </div>
+  </section>
+  
+  
+  <section id="news">
+    <h1>NEWSLETTER</h1> <br>
+ <p></p>
+    <div class="news-div">
+      <form>
+        <input type="text" placeholder="    Nome">
+        <input type="text" placeholder="    E-Mail"> <br><br>
+        <br>        
+        <button type="button"><strong>Inscrever-se</strong></button>
+      </form>
+    </div>
+  </section>
+  
+  
+  <footer>
+      <div class="position-content">
+      <div class="content-div">
+        <div class="icon-tel">
+        <img id="image" src='https://i.postimg.cc/Z0vnv2y6/footer-tel.png' border='0' alt='footer-tel'/>
+      </div>
+      <div class="icon-message">
+        <img id="image" src='https://i.postimg.cc/jLzjZfc5/footer-message.png' border='0' alt='footer-message'/>
+      </div>
+      <div class="icon-location">
+        <img id="image" src='https://i.postimg.cc/svFXYmpq/footer-location-flag.png' border='0' alt='footer-location-flag'/> 
+      </div>  
+      </div> 
+      <div>
+      Desenvolvido por<a href="https://www.linkedin.com/in/david-jesus-4a3b01207/" target="_blank" >  David Jesus </a>|| 2022 &reg;
+    </div>
+     
+   </div>
+  </footer>
+</body>
+</html>
