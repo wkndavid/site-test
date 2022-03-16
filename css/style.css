@@ -50,7 +50,8 @@ a {
 
 p {
   width: 400px;
-    text-align: left;
+  text-align: left;
+  padding-left: 12.5rem;
 }
 
 h1 {
@@ -74,6 +75,7 @@ footer {
   text-align: center;
   background-color: #bbb;
   padding-top: 10rem;
+  padding-left: 8.5rem;
 }
 
 button {
@@ -105,6 +107,8 @@ input {
 
 form {
   display: flex;
+  padding-left: 33rem;
+
 }
 
 #image {
@@ -136,9 +140,17 @@ form {
 }
 
 #about-cities {
-  height: 1700px;
+  height: 750px;
   line-height: 650px !important;
   background-color: #abcdef;
+}
+
+.content-news {
+  height: 400px;
+  background-color: #123456;
+  padding: .5rem;
+  color: #abcdef;
+  box-sizing: border-box;
 }
 
 .logo {
@@ -150,14 +162,6 @@ form {
   line-height: 100px;
 
   background-color: #abcdef;
-}
-
-.content-news {
-  height: 300px;
-  background-color: #123456;
-  padding: .5rem;
-  color: #abcdef;
-  box-sizing: border-box;
 }
 
 .news-div {
